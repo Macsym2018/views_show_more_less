@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * @file
+ * Views toggle content pager module.
+ */
+
+
+function views_show_more_less_preprocess_views_show_more_less_pager(&$vars) {
+
+$a = 20;
+}

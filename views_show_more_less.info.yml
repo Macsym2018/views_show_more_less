@@ -1,0 +1,5 @@
+name: Views Show More Less
+type: module
+description: This is my custom module. That allow to show and hide extra view's content.
+core_version_requirement: ^9
+package: Custom
